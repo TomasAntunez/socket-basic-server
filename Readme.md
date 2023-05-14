@@ -1,4 +1,4 @@
-# Simple socket server with expressess
+# Simple socket server with express
 
 ## Setup
 ```
